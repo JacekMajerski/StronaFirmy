@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../kurs cz 2"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../kurs JS"
+		},
+		{
+			"path": "../../../Cypress"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kurs cz 1"
+	}
+}
